@@ -55,8 +55,7 @@
 
 ## 4. 소개영상
 
-<!-- 나중에 제출한 영상 유튜브로 바꾸기 -->
-[![부산대학교 정보컴퓨터공학부 소개](http://img.youtube.com/vi/zh_gQ_lmLqE/0.jpg)](https://youtu.be/zh_gQ_lmLqE)
+[![2024년 전기 졸업과제 38 노란전력](http://img.youtube.com/vi/PrEkWvzg0_A/0.jpg)](https://youtu.be/PrEkWvzg0_A)
 
 ## 5. 참고문헌
 
